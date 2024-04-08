@@ -1,23 +1,4 @@
-
-/* .titulo{
-  display: flex;
-  justify-content: center;
-}
-.main{
-  display: flex;
-
-}
-
-.ft01{
-  height: 65%;
-  width: 65%;
-} */
-
-.telaInicial *{
-  border: 1px solid cadetblue;
-}
 .telaInicial {
-  
   text-align: center;
   padding: 20px;
 }
@@ -28,8 +9,11 @@
   margin-bottom: 20px;
 }
 
-.imagem-container {
-  margin-bottom: 20px;
+.ft01 {
+  width: 100%;
+  height: 200%;
+  object-fit: cover;
+  object-position: bottom;
 }
 
 .descricao {
@@ -43,11 +27,8 @@
 }
 
 @media only screen and (max-width: 600px) {
-  .titulo {
-    font-size: 2rem;
-  }
-
-  .descricao {
+.descricao {
     font-size: 1rem;
+
   }
 }
