@@ -6,9 +6,17 @@
 }
 
 .main{
-  align-items: center;
+  display: flex;
 }
 
+.conteudo {
+  flex: 1;
+}
+
+.video-container {
+  margin-left: 30px;
+  margin-right: 10px;
+}
 .logo {
   width: 100px;
   height: 100px;

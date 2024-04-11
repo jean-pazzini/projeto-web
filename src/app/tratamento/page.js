@@ -1,11 +1,14 @@
 import React from 'react';
+import Link from 'next/link';
 
 export default function Home() {
   return (
     <>
       <header>
         <nav className="menu">
-          <img src="/image/logo.jpg" className="logo"></img>
+        <Link href="../">
+            <img src="/image/logo.jpg" className="logo" alt="Logo"></img>
+        </Link>
           <ul>
             <li><a href="../prevencao">Prevenção</a></li>
             <li><a href="../tratamento">Tratamento</a></li>
