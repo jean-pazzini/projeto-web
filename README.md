@@ -16,6 +16,6 @@
 
 ### Objetivos:
 
-### Descrição:
+Nosso objetivo é educar e conscientizar os alunos sobre os perigos e consequências do abuso de drogas e álcool. Além de fornecer informações detalhadas sobre os efeitos imediatos e de longo prazo do consumo dessas substâncias, também pontuando assuntos como formas de prevenção e tratamento.
 
 ### Protótipo de alta fidelidade:
