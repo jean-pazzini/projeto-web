@@ -30,7 +30,7 @@ export default function Home() {
           </p>
         </div>
 
-        <div className="video">
+        {/* <div className="video">
           <iframe 
             width="560" 
             height="315" 
@@ -41,7 +41,7 @@ export default function Home() {
             allowfullscreen
             style={{boxShadow: '0px 0px 10px rgba(0, 0, 0, 0.1)', borderRadius: '8px'}}>
           </iframe>
-        </div>
+        </div> */}
 
         <div className="opcoes-container">
           <h4>O que você deve saber ?</h4>
