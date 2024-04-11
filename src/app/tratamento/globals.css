@@ -1,0 +1,25 @@
+/* Estilos para telas maiores */
+@media screen and (min-width: 768px) {
+  .conteudo {
+    padding: 0 40px;
+  }
+
+  .descricao-container, .opcoes-container {
+    max-width: 70%;
+  }
+}
+
+/* Estilos para telas menores */
+@media screen and (max-width: 767px) {
+  .conteudo {
+    padding: 0 20px;
+  }
+
+  .descricao-container, .opcoes-container {
+    max-width: 100%;
+  }
+
+  .tratamento-img {
+    margin-bottom: 20px;
+  }
+}
