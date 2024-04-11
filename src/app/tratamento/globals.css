@@ -7,6 +7,12 @@
   .descricao-container, .opcoes-container {
     max-width: 70%;
   }
+
+  .tratamento-img {
+    margin-bottom: 20px;
+    height: 100%;
+    width: 100%;
+  }
 }
 
 /* Estilos para telas menores */
@@ -21,5 +27,7 @@
 
   .tratamento-img {
     margin-bottom: 20px;
+    height: 100%;
+    width: 100%;
   }
 }

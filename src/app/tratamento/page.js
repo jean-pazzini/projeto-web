@@ -14,7 +14,7 @@ export default function Home() {
           <ul>
             <li><Link href="../prevencao">Prevenção</Link></li>
             <li><Link href="../tratamento">Tratamento</Link></li>
-            <li><Link href="../recursos">Recursos</Link></li>
+
           </ul>
         </nav>
       </header>
