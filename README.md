@@ -20,7 +20,7 @@ Nosso objetivo é educar e conscientizar os alunos sobre os perigos e consequên
 
 ### Protótipo de alta fidelidade:
 
-
+![](prototipo.jpg)
 
 ### Link do vídeo:
 
