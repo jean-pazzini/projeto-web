@@ -1,5 +1,9 @@
 ## Projeto Web
 
+### Link do Site Hospedado:
+
+[Clique aqui](https://projeto-web-mocha.vercel.app/)
+
 ### Grupo de Desenvolvedores:
 
 * Alex Cruz de Santana - TIA:32388144
@@ -22,7 +26,7 @@ Nosso objetivo é educar e conscientizar os alunos sobre os perigos e consequên
 
 ![](prototipo.jpg)
 
-### Link do vídeo:
+### Link da video-apresentação:
 
-[Link para vídeo youtube](https://www.youtube.com/watch?v=dNNhpsWcr0s)
+[Clique aqui](https://www.youtube.com/watch?v=dNNhpsWcr0s)
 
